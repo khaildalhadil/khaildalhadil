@@ -101,10 +101,12 @@ public class KhalidAlhadi : Developer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/khaildalhadil/Microservices-Dotnet-Core-API">Microservices API</a></h3>
-      <p>Backend built as independent microservices with .NET Core.</p>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <h3>🧩 <a href="https://github.com/khaildalhadil/Microservices-Dotnet-Core-API">eCommerce Microservices</a></h3>
+      <p>Products, Users and Orders services, each with its own database (MySQL, PostgreSQL, MongoDB), all started with one Docker Compose command.</p>
+      <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/khaildalhadil/E-Commerce-Net-Core-And-Angular">E-Commerce Platform</a></h3>
@@ -115,14 +117,15 @@ public class KhalidAlhadi : Developer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/khaildalhadil/Chat-AI-in-Dotnet-Core">AI Chat in .NET</a></h3>
-      <p>AI-powered chat app built on .NET Core.</p>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="AI" />
+      <h3>🏝️ <a href="https://github.com/khaildalhadil/visite-oman-challenge">Visit Oman</a></h3>
+      <p>Bilingual (Arabic / English) travel planner for Oman: builds a personal day-by-day trip from your interests, month and budget, with a map and an AI chat. <a href="https://visite-oman-challenge.vercel.app"><b>Live demo →</b></a></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
     </td>
     <td width="50%" valign="top">
       <h3>🪟 <a href="https://github.com/khaildalhadil/my-CV-Like-Windows">CV Like Windows</a></h3>
-      <p>My CV reimagined as a Windows-style desktop you can click around in.</p>
+      <p>My CV reimagined as a Windows 11 desktop: open, drag and resize windows, use the Start menu and taskbar. <a href="https://creative-rolypoly-4bbeb4.netlify.app/"><b>Live demo →</b></a></p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
     </td>
